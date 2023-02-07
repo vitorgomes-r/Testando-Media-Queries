@@ -34,6 +34,20 @@ body{
     overflow: hidden;
 }
 
+#pag002{
+    color: rgba(22, 22, 22, 0.897);
+}
+
+#pag002l{
+    color: white;
+    text-decoration: none;
+}
+
+#pag002l:hover{
+    color: rgb(151, 151, 151);
+    transition: 0.2s;
+}
+
 #pc{display: none;}
 #cell{display: inline-block;}
 #print{display: none;}
